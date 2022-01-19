@@ -1,3 +1,5 @@
+"""Sample project that use for loop , if-else """
+
 import random
 secretNum = random.randint(1, 100)
 print('I am thinking number from 1 - 100')
