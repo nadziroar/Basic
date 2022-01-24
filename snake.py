@@ -22,6 +22,8 @@ game_over = False
 x1 = display_width/2
 y1 = display_height/2
 
+snake_block = 10
+
 x1_change = 0
 y1_change = 0
 
