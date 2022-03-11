@@ -1,7 +1,8 @@
 
 """Create a to-do list using Disctionary"""
 people = {
-    'Nurul ' : {'I need to poop'  , 'Study math'},
+    'Nurul ' : {'I need to poop'  , 
+                'Study math'},
     'Abdullah' : {'My first activity' , 'Prepare lunch'},
     'Ayesha' : {'Maybe watch my cartoon' , 'Disturb my parents' , 'ipad?'},
     'Omar' : {'Cry' , 'eat' , 'poo poo' , 'disturb mummy'}
